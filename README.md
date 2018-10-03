@@ -31,7 +31,7 @@ python app.py
 ```
 
 然后打开浏览器，在地址栏中输入：
-```
+```python
 http://localhost:666
 ```
 

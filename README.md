@@ -34,3 +34,8 @@ python app.py
 
 ![](https://raw.githubusercontent.com/xxpcb/flask-video-streaming-usbcamera/master/result/1.jpg)
 
+## 帖子地址
+[*【树莓派3B＋测评】搭建Flask视频流媒体Web服务器*](http://bbs.eeworld.com.cn/forum.php?mod=viewthread&tid=1006103&page=1&extra=#pid2755410)
+
+## 演示视频
+[*树莓派视频流媒体Demo*](https://v.youku.com/v_show/id_XMzg0Nzk4NzE4OA==.html?spm=a2hzp.8244740.0.0)

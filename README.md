@@ -32,5 +32,5 @@ python app.py
 
 ## 运行效果（树莓派）
 
-![](https://github.com/Mjrovai/Video-Streaming-with-Flask/tree/master/camWebServer/result/1.jpg)
+![](https://github.com/xxpcb/flask-video-streaming-usbcamera/tree/master/result/1.jpg)
 

@@ -30,6 +30,12 @@ sudo pip(2) install flask
 python app.py
 ```
 
+然后打开浏览器，在地址栏中输入：
+```
+http://localhost:666
+```
+
+
 ## 运行效果（树莓派）
 
 ![](https://raw.githubusercontent.com/xxpcb/flask-video-streaming-usbcamera/master/result/1.jpg)

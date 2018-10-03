@@ -32,5 +32,5 @@ python app.py
 
 ## 运行效果（树莓派）
 
-![](https://github.com/xxpcb/flask-video-streaming-usbcamera/tree/master/result/1.jpg)
+![](https://raw.githubusercontent.com/xxpcb/flask-video-streaming-usbcamera/master/result/1.jpg)
 
